@@ -31,4 +31,5 @@ This dataset is permitted to be used for any purpose, including commercial use.
 8. Applying Auto_ARIMA 
 9. Evaluate Auto_ATIMA model
 10. Applying Seasonal_ARIMA
-11.Evaualte SeasonaL_ARIMA
+11. Evaualte SeasonaL_ARIMA  
+
