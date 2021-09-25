@@ -33,3 +33,4 @@ This dataset is permitted to be used for any purpose, including commercial use.
 10. Applying Seasonal_ARIMA
 11. Evaualte SeasonaL_ARIMA  
 
+Current Work, Triying to apply LSTM. Approch first apply STL-decomposition and work on just trend data.Then make the data set into  supervised learnig and apply LSTM.
